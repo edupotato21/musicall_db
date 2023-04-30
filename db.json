@@ -14,10 +14,10 @@
         "precioTotal":300.00
       },
       {
-        ""id"":3,
-        ""idContrato"": 3,
-        ""descripcion"": "Fiesta de cumpleaños",
-        ""precioTotal"":400.00
+        "id"":3,
+        "idContrato": 3,
+        "descripcion": "Fiesta de cumpleaños",
+        "precioTotal":400.00
       },
       {
         "id":4,
