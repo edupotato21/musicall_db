@@ -2,12 +2,5 @@
   "users": [
     {"id": 1, "nombre": "Nombre 1"},
     {"id": 2, "nombre": "Nombre 2"}
-  ],
-  "tipoAsociado": [
-      { "id": 1, "descripcionTipoAsociado": "Banda" },
-      { "id": 2, "descripcionTipoAsociado": "Solista" },
-      { "id": 3, "descripcionTipoAsociado": "Dúo" },
-      { "id": 4, "descripcionTipoAsociado": "Orquesta" },
-      { "id": 5, "descripcionTipoAsociado": "DJ" },
   ]
 }
