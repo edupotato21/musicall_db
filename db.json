@@ -4,6 +4,6 @@
       { "id": 2, "descripcionTipoAsociado": "Solista" },
       { "id": 3, "descripcionTipoAsociado": "Dúo" },
       { "id": 4, "descripcionTipoAsociado": "Orquesta" },
-      { "id": 5, "descripcionTipoAsociado": "DJ" }
-  ],
+      { "id": 5, "descripcionTipoAsociado": "DJ" },
+  ]
 }
