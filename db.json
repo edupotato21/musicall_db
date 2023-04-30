@@ -4,15 +4,10 @@
       { "id": 2, "descripcionTipoAsociado": "Solista" },
       { "id": 3, "descripcionTipoAsociado": "Dúo" },
       { "id": 4, "descripcionTipoAsociado": "Orquesta" },
-      { "id": 5, "descripcionTipoAsociado": "DJ" },
-    ],
+      { "id": 5, "descripcionTipoAsociado": "DJ" }],
   "boletas": [
       { "id":1, "contratoId": 1, "descripcion": "Presentación en boda", "precioTotal": 770 },
       { "id":2, "contratoId": 2, "descripcion": "Festival de música", "precioTotal": 300 },
       { "id":3, "contratoId": 3, "descripcion": "Fiesta de cumpleaños", "precioTotal": 400 },
-      { "id":4, "contratoId": 4, "descripcion": "Presentación en aniversario de colegio", "precioTotal": 250 },
-    ],
-   "profile": {
-    "name": "musicall"
-  }
+      { "id":4, "contratoId": 4, "descripcion": "Presentación en aniversario de colegio", "precioTotal": 250 }],
 }
