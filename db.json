@@ -2,5 +2,31 @@
   "usuarios": [
     {"id": 1, "nombre": "nombre 1"},
     {"id": 2, "nombre": "nombre 2"}
-  ]
+  ],
+  "boletas": [
+      {
+        "id":1,
+        "idContrato": 1,
+        "descripcion": "Presentación en boda",
+        "precioTotal": 770.50,
+      },
+      {
+        "id":2,
+        "idContrato": 2,
+        "descripcion": "Festival de música",
+        "precioTotal":300.00,
+      },
+      {
+        "id":3,
+        "idContrato": 3,
+        "descripcion": "Fiesta de cumpleaños",
+        "precioTotal":400.00,
+      },
+      {
+        "id":4,
+        "idContrato": 4,
+        "descripcion": "Presentación en aniversario de colegio",
+        "precioTotal":250.00,
+      }
+    ]
 }
