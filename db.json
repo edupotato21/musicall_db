@@ -1,6 +1,6 @@
 
   {
-    boletas: [
+    "boletas": [
       {
         id:1,
         idContrato: 1,
@@ -26,7 +26,7 @@
         precioTotal:250.00
       }
     ],
-    generosMusica: [
+    "generosMusica": [
       {
         idGeneroMusica:1,
         descripcionGener:"Rock"
@@ -44,7 +44,7 @@
         descripcionGener:"Cumbia"
       },
     ],
-    horario: [
+    "horario": [
       {
         idHorario:1,
         fecha:"2023-04-05",
@@ -66,7 +66,7 @@
         hora:"12:00:00"
       }
     ],
-    tipoAsociado: [
+    "tipoAsociado": [
       {
         id: 1,
         descripcionTipoAsociado: "Banda"
