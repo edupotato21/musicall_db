@@ -1,16 +1,16 @@
 {
-  "posts": [
+  "tipoAsociado": [
     {
       "id": 1,
-      "title": "Post 1"
+      "descripcionTipoAsociado": "Banda"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "descripcionTipoAsociado": "Solista"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "descripcionTipoAsociado": "Dúo"
     }
   ],
   "comments": [
@@ -26,6 +26,6 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "musicall"
   }
 }
