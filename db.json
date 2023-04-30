@@ -5,43 +5,43 @@
         id:1,
         idContrato: 1,
         descripcion: "Presentación en boda",
-        precioTotal:770.50,
+        precioTotal:770.50
       },
       {
         id:2,
         idContrato: 2,
         descripcion: "Festival de música",
-        precioTotal:300.00,
+        precioTotal:300.00
       },
       {
         id:3,
         idContrato: 3,
         descripcion: "Fiesta de cumpleaños",
-        precioTotal:400.00,
+        precioTotal:400.00
       },
       {
         id:4,
         idContrato: 4,
         descripcion: "Presentación en aniversario de colegio",
-        precioTotal:250.00,
+        precioTotal:250.00
       }
     ],
     generosMusica: [
       {
         idGeneroMusica:1,
-        descripcionGener:"Rock",
+        descripcionGener:"Rock"
       },
       {
         idGeneroMusica:2,
-        descripcionGener:"Pop",
+        descripcionGener:"Pop"
       },
       {
         idGeneroMusica:3,
-        descripcionGener:"Jazz",
+        descripcionGener:"Jazz"
       },
       {
         idGeneroMusica:4,
-        descripcionGener:"Cumbia",
+        descripcionGener:"Cumbia"
       },
     ],
     horario: [
