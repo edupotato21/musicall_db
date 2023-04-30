@@ -16,13 +16,15 @@
   "boletas": [
     {
       "id": 1,
-      "descripcion": "some comment",
-      "idContrato": 1
+      "idContrato": 1,
+      "descripcion": "Presentación en boda",
+      "precioTotal": 770.50
     },
     {
       "id": 2,
-      "descripcion": "some comment",
-      "idContrato": 1
+      "idContrato": 2,
+      "descripcion": "Fiesta de cumpleaños",
+      "precioTotal": 300.00
     }
   ],
   "profile": {
