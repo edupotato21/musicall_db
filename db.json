@@ -1,8 +1,4 @@
 {
-  "usuarios": [
-    {"id": 1, "nombre": "nombre 1"},
-    {"id": 2, "nombre": "nombre 2"}
-  ],
   "tipoAsociado": [
       {
         "id": 1,
