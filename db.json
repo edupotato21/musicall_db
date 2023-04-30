@@ -13,16 +13,16 @@
       "descripcionTipoAsociado": "Dúo"
     }
   ],
-  "comments": [
+  "boletas": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "descripcion": "some comment",
+      "idContrato": 1
     },
     {
       "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "descripcion": "some comment",
+      "idContrato": 1
     }
   ],
   "profile": {
